@@ -1,8 +1,10 @@
 # Hi! I'm Haruka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 👀 About Me
+
 🎓 I'm Haruka Masamura, a rising junior at Brown University studying computer science (and maybe visual art)!
-👨‍💻 I love working on frontend dev (and at times backend too!), and I'm currently working as a Software Engineer Intern at PlayStation at the Tokyo office. 
+👨‍
+💻 I love working on frontend dev (and at times backend too!), and I'm currently working as a Software Engineer Intern at PlayStation at the Tokyo office. 
 
 ## 🛠️ Skills
 
