@@ -37,7 +37,6 @@
 
 ## 📈 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harukam122&show_icons=true&locale=en" alt="harukam122" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harukam122&" alt="harukam122" /></p>
 
 ## 🔗 Links
