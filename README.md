@@ -35,10 +35,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## 📈 Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harukam122&" alt="harukam122" /></p>
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://harukam122.github.io/portfolio/)
