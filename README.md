@@ -2,9 +2,9 @@
 
 ## 👀 About Me
 
-🎓  I'm a rising junior at Brown University studying computer science (and maybe visual art)
+🎓  I'm a junior at Brown University studying computer science with a focus on design and software principles!
 
-💻  I love creating in general, but especially through technology! I'm currently working as a Software Engineer Intern @ PlayStation at the Tokyo office :D
+💻  I love creating in general, but especially through technology! This past summer, I had the opportunity to work as a Software Engineer Intern @ PlayStation at the Tokyo office :D
 
 ## 🛠️ Skills
 
